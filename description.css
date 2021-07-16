@@ -1,0 +1,11 @@
+.description{
+    border: cyan;
+    height: 100%;
+    color: rgb(62, 21, 116);
+    padding-left: 40%;
+    background-color : burlywood;
+}
+
+.red{
+    color: rgb(255, 0, 200);
+}
